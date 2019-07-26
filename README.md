@@ -1,6 +1,6 @@
 # Palestrante nos seguintes eventos:
 
-SP Conecta Valinhos (talk)
+SP Conecta Valinhos (talk) <br />
 Startup Weekend Presidente Epitácio (keynote)
 Startup Weekend Limeira (keynote)
 DevCircles Summit (talk) *por Facebook*
