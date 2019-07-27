@@ -15,7 +15,7 @@
 * Women Can Code - Líderes na Tecnologia (painel) *por ShareRH + Facamp* <br />
 * Locaweb Digital Conference (painel) *por Força Meninas + Locaweb* <br />
 * WTM Summit Latin America (talk) *por Google Argentina* <br />
-* Female Founder Roundtable: How to Get Ahead in Entrepreneurship(painel) *por [Founder Institute*](https://fi.co/event/183352-campinas-founder-hotseat-pitch-your-idea-to-city-startup-experts) <br />
+* Female Founder Roundtable: How to Get Ahead in Entrepreneurship(painel) *por [Founder Institute](https://fi.co/event/183352-campinas-founder-hotseat-pitch-your-idea-to-city-startup-experts)* <br />
 * 1º Bootcamp Turma 2 (workshop) *por [Laboratoria](https://www.laboratoria.la/br)* <br />
 * Talent Fest (talk e mestre de cerimônia) *por [Laboratoria](https://www.laboratoria.la/br)* <br />
 * Formatura Turma 2 (discurso de paraninfa) *por [Laboratoria](https://www.laboratoria.la/br)* <br />
@@ -23,6 +23,7 @@
 * AndroidDev Conference (host) *por iMasters* <br />
 * Intercon (host) *por iMasters* <br />
 * Inova Campinas 2017 (coordenação de trilha) *por Fundação Fórum Campinas* <br />
+* Kotlin Summit 2018 (host) *por iMasters*
 
 ## Conferências que dirigi/planejei/organizei
 
@@ -66,3 +67,9 @@
 [idWall] 
 [Sofist] 
 [Venturus] 
+[Castelo Creative Space] 
+[Intel] 
+[CPqD]
+[weme]
+[IC Unicamp]
+[IESCAMP] 
