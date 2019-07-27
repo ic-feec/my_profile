@@ -1,4 +1,4 @@
-## Alguns dos eventos que contribuí:
+## Alguns dos eventos mais recentes que contribuí:
 
 SP Conecta Valinhos (talk) <br />
 Startup Weekend Presidente Epitácio (keynote) <br />
