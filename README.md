@@ -1,4 +1,4 @@
-## Alguns dos eventos mais recentes que contribuí:
+## Alguns dos eventos mais recentes que contribuí
 
 SP Conecta Valinhos (talk) <br />
 Startup Weekend Presidente Epitácio (keynote) <br />
@@ -22,3 +22,47 @@ Formatura Turma 2 (discurso de paraninfa) *por [Laboratoria*](https://www.labora
 Hackathon DevCirclesSRS from Facebook (jurada) *por DevCircles Santa Rita do Sapucaí* <br />
 AndroidDev Conference (host) *por iMasters* <br />
 Intercon (host) *por iMasters* <br />
+Inova Campinas 2017 (coordenação de trilha) *por Fundação Fórum Campinas* <br />
+
+## Conferências que dirigi/planejei/organizei
+
+Vuejs Summit LATAM
+UX Day (Hackathon)
+DataFest 2017
+DataFest 2018
+QualityFest 2017
+QualityFest 2018
+AndroidFest 2018
+DevFest Campinas 2016
+DevFest Campinas 2017
+DevFest Campinas 2018
+
+## Empresas que apoiaram/patrocinaram alguma das minhas iniciativas
+
+[infoQ]
+[HBSIS]
+[iFood]
+[CCUEC]
+[Movile]
+[Accenture Digital]
+[Logcomex]
+[Ci&T]
+[Revelo]
+[Jardim Digital]
+[Impulso]
+[Stored]
+[Mercado Livre]
+[Novatec]
+[Wezen]
+[iMasters]
+[Ctrl+Play]
+[Cas]
+[IoT Makers]
+[Dextra]
+[Conpec]
+[Eu compraria]
+[Go Vision]
+[CargoX]
+[idWall]
+[Sofist]
+[Venturus]
