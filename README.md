@@ -5,9 +5,9 @@ Startup Weekend Presidente Epitácio (keynote) <br />
 Startup Weekend Limeira (keynote) <br />
 [Startup Weekend Women Campinas](http://communities.techstars.com/brazil/campinas/startup-weekend/14053) (mentora) <br />
 DevCircles Summit (talk) *por Facebook* <br />
-GDG Summit 2017 (talk) *por Google* <br />
-GDG Summit 2018 (talk) *por Google* <br />
-GDG Summit 2019 (talk) *por Google* <br />
+GDG Summit 2017 (talk) *por Google Developer* <br />
+GDG Summit 2018 (talk) *por Google Developer* <br />
+GDG Summit 2019 (talk) *por Google Developer* <br />
 Intercon Community Summit (talk) *por iMasters* <br />
 Uber Meninas (talk) *por Uber + Força Meninas* <br />
 Summer Talk - Eventos Globais (painel) *por Weme + Giovanett* <br />
