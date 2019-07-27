@@ -26,43 +26,43 @@ Inova Campinas 2017 (coordenação de trilha) *por Fundação Fórum Campinas* <
 
 ## Conferências que dirigi/planejei/organizei
 
-Vuejs Summit LATAM
-UX Day (Hackathon)
-DataFest 2017
-DataFest 2018
-QualityFest 2017
-QualityFest 2018
-AndroidFest 2018
-DevFest Campinas 2016
-DevFest Campinas 2017
-DevFest Campinas 2018
+Vuejs Summit LATAM <br />
+UX Day (Hackathon) <br />
+DataFest 2017 <br />
+DataFest 2018 <br />
+QualityFest 2017 <br />
+QualityFest 2018 <br />
+AndroidFest 2018 <br />
+DevFest Campinas 2016 <br />
+DevFest Campinas 2017 <br />
+DevFest Campinas 2018 <br />
 
 ## Empresas que apoiaram/patrocinaram alguma das minhas iniciativas
 
-[infoQ]
-[HBSIS]
-[iFood]
-[CCUEC]
-[Movile]
-[Accenture Digital]
-[Logcomex]
-[Ci&T]
-[Revelo]
-[Jardim Digital]
-[Impulso]
-[Stored]
-[Mercado Livre]
-[Novatec]
-[Wezen]
-[iMasters]
-[Ctrl+Play]
-[Cas]
-[IoT Makers]
-[Dextra]
-[Conpec]
-[Eu compraria]
-[Go Vision]
-[CargoX]
-[idWall]
-[Sofist]
-[Venturus]
+[infoQ] 
+[HBSIS] 
+[iFood] 
+[CCUEC] 
+[Movile] 
+[Accenture Digital] 
+[Logcomex] 
+[Ci&T] 
+[Revelo] 
+[Jardim Digital] 
+[Impulso] 
+[Stored] 
+[Mercado Livre] 
+[Novatec] 
+[Wezen] 
+[iMasters] 
+[Ctrl+Play] 
+[Cas] 
+[IoT Makers] 
+[Dextra] 
+[Conpec] 
+[Eu compraria] 
+[Go Vision] 
+[CargoX] 
+[idWall] 
+[Sofist] 
+[Venturus] 
