@@ -16,9 +16,9 @@
 * Locaweb Digital Conference (painel) *por Força Meninas + Locaweb* <br />
 * WTM Summit Latin America (talk) *por Google Argentina* <br />
 * Female Founder Roundtable: How to Get Ahead in Entrepreneurship(painel) *por [Founder Institute*](https://fi.co/event/183352-campinas-founder-hotseat-pitch-your-idea-to-city-startup-experts) <br />
-* 1º Bootcamp Turma 2 (workshop) *por [Laboratoria*](https://www.laboratoria.la/br) <br />
-* Talent Fest (talk e mestre de cerimônia) *por [Laboratoria*](https://www.laboratoria.la/br) <br />
-* Formatura Turma 2 (discurso de paraninfa) *por [Laboratoria*](https://www.laboratoria.la/br) <br />
+* 1º Bootcamp Turma 2 (workshop) *por [Laboratoria](https://www.laboratoria.la/br)* <br />
+* Talent Fest (talk e mestre de cerimônia) *por [Laboratoria](https://www.laboratoria.la/br)* <br />
+* Formatura Turma 2 (discurso de paraninfa) *por [Laboratoria](https://www.laboratoria.la/br)* <br />
 * Hackathon DevCirclesSRS from Facebook (jurada) *por DevCircles Santa Rita do Sapucaí* <br />
 * AndroidDev Conference (host) *por iMasters* <br />
 * Intercon (host) *por iMasters* <br />
