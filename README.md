@@ -1,8 +1,8 @@
 ## Alguns dos eventos mais recentes que contribuí
 
-*SP Conecta Valinhos (talk) <br />
-*Startup Weekend Presidente Epitácio (keynote) <br />
-*Startup Weekend Limeira (keynote) <br />
+- SP Conecta Valinhos (talk) <br />
++ Startup Weekend Presidente Epitácio (keynote) <br />
+* Startup Weekend Limeira (keynote) <br />
 *[Startup Weekend Women Campinas](http://communities.techstars.com/brazil/campinas/startup-weekend/14053) (mentora) <br />
 *DevCircles Summit (talk) *por Facebook* <br />
 *GDG Summit 2017 (talk) *por Google Developer* <br />
